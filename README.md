@@ -9,10 +9,10 @@
 ![](https://github.com/devanand98/Data-Science-Portfolio/blob/main/images/nifty.png)
 * Analyzed and compared the stock data with NIFTY 50 data
 ![](https://github.com/devanand98/Data-Science-Portfolio/blob/main/images/Diff%20btw%20Stock%20and%20Nifty.png)
-*Calculated the returns and standard deviations
+* Calculated the returns and standard deviations
 ![](https://github.com/devanand98/Data-Science-Portfolio/blob/main/images/nifty%20returns.png)
 ![](https://github.com/devanand98/Data-Science-Portfolio/blob/main/images/std%20of%20excess%20returns.png)
 * Calculated the Sharpe Ratio and arrived at conclusion
 ![](https://github.com/devanand98/Data-Science-Portfolio/blob/main/images/Daily%20Returns.png)
 ![](https://github.com/devanand98/Data-Science-Portfolio/blob/main/images/Sharpe%20Ratio.png)
-*According to the analysis , the best stock for investing in 2021 would be RELIANCE.
+* According to the analysis , the best stock for investing in 2021 would be RELIANCE.
